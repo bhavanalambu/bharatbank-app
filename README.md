@@ -182,8 +182,31 @@ Password: password123
 
 * Dashboard:CUSTOMER
 ![alt text](image-3.png)
-* Transaction Page
+* Dashboard:Fumd transfers by customer section
+![alt text](<Fund Transfer(C).png>)
 
+* Dashboard:Fixed depostis details of customer page
+![alt text](<Fixed deposits(C).png>)
+
+* Dashboard:EMI calculation page for customer
+![alt text](<EMI calculator(c).png>)
+
+* Dashboard:Loan and EMI Check page for customer
+![alt text](<Loan and EML(C).png>)
+
+* Dashboard:My profile section for customer
+![alt text](<My profile(C).png>)
+
+Manage users for Admin page
+![alt text](image-7.png)
+
+All acounts view for Admin page
+![alt text](image-8.png)
+
+All transactions view for Admin page
+![alt text](image-9.png)
+
+* Transaction Page
 ![alt text](image-4.png)
 
 ---
